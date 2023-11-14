@@ -1,7 +1,7 @@
 ### Olar! 👋
 
-- 🔭 Hoje eu trabalho como analista de dados
-- 🌱 estou estudando Python
+- 🔭 Hoje eu trabalho como Desenvolvedor de Sistemas | Desenvolvedor SQL | Low-Code | No-Code| Back-end| PostgreSQL
+- 🌱 estou estudando Python/ node / Javascript / typescript
 - 📫 Entre em contato através do meu email: wmoura85@gmail.com
 
 <div align="center">
