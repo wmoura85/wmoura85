@@ -1,7 +1,7 @@
 ## Olar! Me chamo Will, sou dev Jr. Backend 👋
 
 - 🔭 Atualmente trabalho no backend de um ERP utilizando a IDE Low-code Maker All, Postgres, Golang
-- 🌱 Venho estudando Golang, docker e um pouco de React.
+- 🌱 Venho estudando Java, docker e um pouco de React.
 
 <div
 <a href="https://github.com/wmoura85/github-readme-stats">
